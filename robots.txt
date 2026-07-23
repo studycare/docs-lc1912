@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-naus3y.buyflowers.com.sg/sitemap.xml
